@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-- [Live Demo](https://meri-mg-portfolio.netlify.app/)
+- [Live Demo](https://reactportfolio.render.com/)
 
 
 # Getting Started
@@ -28,9 +28,9 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/yyusronwirawan/portfolio---react) to your local machine 
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
+  git clone git@github.com:yyusronwirawan/portfolio---react.git
   ```
 
 - Navigate to `cd portfolio---react`  directory.
@@ -47,14 +47,14 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:men: **Yusron Wirawan**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
+- [GitHub](https://github.com/yyusronwirawan)
+- [LinkedIn](https://www.linkedin.com/in/yyusronwirawan/)
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
+- Feel free to check the [issues page](https://github.com/yyusronwirawan/portfolio---react/issues).
 
 # Show your support
 Give a ⭐ if you like this project!
