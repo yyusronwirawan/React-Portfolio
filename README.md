@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://raw.github.com/yyusronwirawan/portfolio---react/master/src/assets/port.png)
+![Portfolio](https://raw.github.com/yyusronwirawan/React-Portfolio/master/src/assets/port.png)
 
 ## Built With
 
@@ -28,12 +28,12 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/yyusronwirawan/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/yyusronwirawan/React-Portfolio) to your local machine 
 - ```
-  git clone git@github.com:yyusronwirawan/portfolio---react.git
+  git clone git@github.com:yyusronwirawan/React-Portfolio.git
   ```
 
-- Navigate to `cd portfolio---react`  directory.
+- Navigate to `cd React-Portfolio`  directory.
 
 - To install all the app dependencies on the command line run
 - ```
